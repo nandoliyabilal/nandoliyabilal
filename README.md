@@ -1,101 +1,182 @@
-<h1 align="left">Hi, I'm Bilal Nandoliya 👋</h1>
+<div align="center">
 
-**Full Stack Developer building modern, scalable and user-focused web applications.**
+# Hi, I'm Bilal Nandoliya 👋
 
-I'm a BSc IT student who builds full-stack web applications end to end — from UI to database. I enjoy picking up new technologies and turning ideas into working products. Currently looking for Full Stack / Software Developer internship opportunities.
+### Full Stack Developer building modern, scalable and user-focused web applications
 
----
+<br/>
 
-### 💡 Currently
+BSc IT student who builds full-stack web applications end to end — from UI to database.
+Currently exploring backend depth, system design, and open to **Full Stack / Software Developer internships**.
 
-- 🔭 Currently working on: full-stack projects for freelance clients and my own products
-- 🌱 Currently learning: Java, DSA, Next.js, backend development, system design
-- 💼 Looking for: Full Stack / Software Developer Internship
-- 🚀 Goal: Become a professional software developer at a strong international tech company
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalnandoliya.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalnandoliya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalnandoliya60@gmail.com)
 
-### 🛠️ Tech Stack
+</div>
+
+<br/>
+
+## 📌 About
+
+```js
+const bilal = {
+  role: "Full Stack Developer",
+  education: "BSc IT, Gokul Global University ('27)",
+  stack: "MERN + SQL",
+  currentlyLearning: ["Java", "DSA", "Next.js", "System Design"],
+  lookingFor: "Full Stack / Software Developer Internship",
+  goal: "Build scalable products, grow into a strong international dev role"
+};
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="20%">
 
 **Frontend**
-`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `Bootstrap` `Vite`
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
 
 **Backend**
-`Node.js` `Express.js` `REST APIs`
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
 
 **Database**
-`MongoDB` `SQL`
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
 
 **Tools & Platforms**
-`Git` `GitHub` `Razorpay API` `Cloudinary`
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+</td>
+<td valign="top" width="20%">
 
 **Currently Learning**
-`Java` `Data Structures & Algorithms` `Next.js` `System Design`
 
----
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+`DSA` `System Design`
 
-### 🚀 Featured Projects
+</td>
+</tr>
+</table>
 
-**[Qalamekahani](https://qalamekahani.com)**
-Full-stack multilingual storytelling platform with multi-writer support, authentication, categories, a premium/coin system, payment integration, and Cloudinary-based image handling.
-`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay API` `Cloudinary`
-🔗 [GitHub](YOUR_QALAMEKAHANI_REPO_URL) · 🌐 [Live Demo](https://qalamekahani.com)
+<br/>
 
-**E-Commerce Website**
-Full-stack e-commerce platform with authentication, product management, cart, and order flow.
-`React.js` `Node.js` `Express.js` `MongoDB`
-🔗 [GitHub](YOUR_ECOMMERCE_REPO_URL) · 🌐 [Live Demo](YOUR_ECOMMERCE_LIVE_URL)
+## 🚀 Featured Projects
 
-**Grocify**
-Responsive grocery website UI built with vanilla web technologies.
-`HTML` `CSS` `JavaScript`
-🔗 [GitHub](YOUR_GROCIFY_REPO_URL) · 🌐 [Live Demo](YOUR_GROCIFY_LIVE_URL)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Razorpay Clone**
-Responsive clone of the Razorpay landing page.
-`HTML` `Tailwind CSS` `JavaScript`
-🔗 [GitHub](YOUR_RAZORPAY_CLONE_REPO_URL) · 🌐 [Live Demo](YOUR_RAZORPAY_CLONE_LIVE_URL)
+### [Qalamekahani](https://qalamekahani.com)
+Full-stack multilingual storytelling platform — multi-writer support, auth, categories, a premium/coin system, payment integration, Cloudinary image handling.
 
-**[Crambuild](https://crambuild.netlify.app)**
-Web development business project delivering modern, business-oriented web solutions.
-`React.js` `Node.js` `Web Development`
-🔗 [GitHub](YOUR_CRAMBUILD_REPO_URL) · 🌐 [Live Demo](https://crambuild.netlify.app)
+`React` `Node.js` `Express` `MongoDB` `Razorpay` `Cloudinary`
 
----
+🔗 [Repo](YOUR_QALAMEKAHANI_REPO_URL) · 🌐 [Live](https://qalamekahani.com)
 
-### 📊 GitHub Activity
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Bilal's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="Bilal's GitHub streak" height="165"/>
-</p>
+### E-Commerce Website
+Full-stack store with authentication, product management, cart, and order flow.
 
----
+`React` `Node.js` `Express` `MongoDB`
 
-### 📚 What I'm Learning
+🔗 [Repo](YOUR_ECOMMERCE_REPO_URL) · 🌐 [Live](YOUR_ECOMMERCE_LIVE_URL)
 
-- Java
-- Data Structures & Algorithms
-- Next.js
-- Advanced backend development
-- System design
-- Better software engineering practices
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### Student Management System
+MERN CRUD app for managing student records — add, view, and delete student data with MongoDB storage.
 
-### 🎯 Career Focus
+`React` `Node.js` `Express` `MongoDB`
 
-Focused on full stack development, software engineering, and backend development — building scalable web applications, sharpening problem-solving skills, and staying current with modern technologies.
+🔗 [Repo](YOUR_SMS_REPO_URL) · 🌐 [Live](https://student-managment-system-zeta.vercel.app/view.html)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔗 Connect With Me
+### [SK Perfumes](https://skperfume-beta.vercel.app/)
+Luxury Islamic/Arabic perfume e-commerce site with a cinematic, showroom-style 3D experience.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalnandoliya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bilalnandoliya.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalnandoliya60@gmail.com)
+`React` `Three.js` `Node.js` `MongoDB`
 
----
+🔗 [Repo](YOUR_SKPERFUMES_REPO_URL) · 🌐 [Live](https://skperfume-beta.vercel.app/)
 
-<p align="left"><i>Always learning. Always building. 🚀</i></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Crambuild](https://crambuild.netlify.app)
+Web development business project — modern, business-oriented web solutions.
+
+`React` `Node.js` `Web Development`
+
+🔗 [Repo](YOUR_CRAMBUILD_REPO_URL) · 🌐 [Live](https://crambuild.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub streak" height="165"/>
+
+</div>
+
+<br/>
+
+## 🎯 Career Focus
+
+Full Stack Development · Software Engineering · Backend Development · Scalable Web Applications · Problem Solving · Continuous Learning
+
+<br/>
+
+<div align="center">
+
+*Always learning. Always building. 🚀*
+
+</div>
